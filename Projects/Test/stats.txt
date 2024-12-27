@@ -1,0 +1,13 @@
+Triangles: 1000
+
+Materials: 2
+
+Texture Size: 4096
+
+Texel Density: 4096
+
+Workflow: PBR
+
+Target Engine: Unreal Engine
+
+Collaborators: None
