@@ -1,6 +1,12 @@
 3D Modelling
 Sculpting
 UV-Unwrapping
+Baking
 Texturing
+Rendering
+Lighting
+Photogrammetry
+Photography
+
 
 
