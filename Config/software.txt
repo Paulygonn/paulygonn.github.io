@@ -10,3 +10,5 @@ Topogun
 Marvelous Designer
 Gaea
 DaVinci Resolve
+Reality Capture
+Substance Sampler
