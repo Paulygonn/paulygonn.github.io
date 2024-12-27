@@ -4,6 +4,6 @@ This is a description for a test project.
 ---
 Blender, RizomUV, Substance Painter
 ---
-https://drive.google.com/uc?id=15V1fX37_1UbR_AvrXUENNKAuhs3b3GZk&export=download
+https://lh3.googleusercontent.com/d/15V1fX37_1UbR_AvrXUENNKAuhs3b3GZk
 ---
 test.html
