@@ -4,6 +4,7 @@ Plasticity
 Rizom UV
 Substance Painter
 Substance Designer
+Substance Sampler
 Unreal Engine
 Marmoset Toolbag
 Topogun
@@ -11,4 +12,3 @@ Marvelous Designer
 Gaea
 DaVinci Resolve
 Reality Capture
-Substance Sampler
